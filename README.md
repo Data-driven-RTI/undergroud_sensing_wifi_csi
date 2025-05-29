@@ -63,8 +63,8 @@ scripts/
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-repo-name.git](https://github.com/Data-driven-RTI/undergroud_sensing_wifi_csi)
-   cd your-repo-name
+   git clone https://github.com/Data-driven-RTI/undergroud_sensing_wifi_csi
+   cd undergroud_sensing_wifi_csi
    ```
 
 2. Install dependencies:
